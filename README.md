@@ -2,7 +2,7 @@
 
 ## 💻 Sobre o Projeto
 
-Vamos construir um jit utilidades para um e-commerce, o projeto deve ser escalável para ter adição de novas features.
+Vamos construir um kit utilidades para um e-commerce, o projeto deve ser escalável para ter adição de novas features.
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
