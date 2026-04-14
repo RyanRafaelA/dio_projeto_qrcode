@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/RyanRafaelA/dio_projeto_qrcode/issues"
   },
-  "homepage": "https://github.com/RyanRafaelA/dio_projeto_qrcode#readme"
+  "homepage": "https://github.com/RyanRafaelA/dio_projeto_qrcode#readme",
+  "dependencies": {
+    "prompt": "^1.3.0"
+  }
 }
