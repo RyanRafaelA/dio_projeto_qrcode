@@ -1,10 +1,10 @@
 import chalk from "chalk";
 
-import handle from "../qr-code/handle";
+import handler from "./handler.js";
 
 async function createPassword(){
     console.log(chalk.green("password"));
-    const password = await handle;
+    const password = await handler();
     console.log(password);
 }
 
